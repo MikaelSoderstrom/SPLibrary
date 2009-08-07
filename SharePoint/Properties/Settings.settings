@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SharePoint.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SharePoint_SPSearch_QueryService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://moss/_vti_bin/search.asmx</Value>
+    </Setting>
+    <Setting Name="SharePoint_WSLists_Lists" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://workspace.it-solutions.siemens.com/_vti_bin/lists.asmx</Value>
+    </Setting>
+    <Setting Name="SharePoint_WSViews_Views" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://moss/_vti_bin/views.asmx</Value>
+    </Setting>
+    <Setting Name="SharePoint_WSWebs_Webs" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://moss/_vti_bin/webs.asmx</Value>
+    </Setting>
+    <Setting Name="SharePoint_WSCopy_Copy" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://moss/_vti_bin/copy.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
